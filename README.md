@@ -22,35 +22,6 @@ Expo
 
 JavaScript
 
-Installation & Run
-
-Clone the repository:
-
-git clone https://github.com/your-username/your-repo-name.git
-
-
-Go to the project folder:
-
-cd your-repo-name
-
-
-Install dependencies:
-
-npm install
-
-
-Start the Expo development server:
-
-npx expo start
-
-
-Run the app on:
-
-Expo Go (mobile)
-
-Android Emulator
-
-iOS Simulator
 
 Purpose
 
@@ -77,38 +48,6 @@ React Native
 Expo
 
 JavaScript
-
-Kurulum & Çalıştırma
-
-Depoyu klonlayın:
-
-git clone https://github.com/kullanici-adi/proje-adi.git
-
-
-Proje klasörüne girin:
-
-cd proje-adi
-
-
-Gerekli paketleri yükleyin:
-
-npm install
-
-
-Expo geliştirme sunucusunu başlatın:
-
-npx expo start
-
-
-Uygulamayı:
-
-Expo Go ile telefonda
-
-Android Emulator
-
-iOS Simulator
-üzerinde çalıştırabilirsiniz.
-
 Amaç
 
 Bu proje, Expo ile React Native kullanarak mobil uygulama geliştirme pratiği yapmak amacıyla hazırlanmıştır.
